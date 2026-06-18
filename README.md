@@ -1,1 +1,1 @@
-# DecoyVR.github.io
+# decoyvr.github.io
